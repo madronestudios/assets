@@ -1,0 +1,387 @@
+newmtl Basement_Floor1SG
+illum 4
+Kd 0.42 0.42 0.42
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CeilingBlackSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+newmtl Exterior_BannerSG
+illum 4
+Kd 0.09 0.09 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Green_Emergency_Exit_sign_M_0128_White
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Green_Emergency_Exit_sign_Metal_Aluminum_Anodized
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Mesh1SG2
+illum 4
+Kd 0.79 0.79 0.79
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl MetalOrangeSG
+illum 4
+Kd 0.59 0.24 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl My_Digital_Thermostat_Thermostat_Display
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.06
+newmtl Paint_GreySG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl PipeClampSG
+illum 4
+Kd 0.97 0.98 0.98
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl PipeClampSG1
+illum 4
+Kd 0.86 0.86 0.84
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl PlasticWhiteG
+illum 4
+Kd 0.88 0.88 0.88
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl ProjectionScreenSG
+illum 4
+Kd 0.96 0.96 0.96
+Ka 0.07 0.07 0.07
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Safety_And_Security_Fire_Extinguisher_Color_D02
+illum 4
+Kd 1.00 0.80 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Safety_And_Security_Fire_Extinguisher_Color_G06
+illum 4
+Kd 0.00 0.80 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Safety_And_Security_Fire_Extinguisher__Charcoal_
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Safety_And_Security_Fire_Extinguisher__FireBrick_
+illum 4
+Kd 0.70 0.13 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl SilverSG
+illum 4
+Kd 0.78 0.77 0.75
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl blinn2SG
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn4SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.12 0.12
+newmtl blinn5SG
+illum 4
+Kd 0.76 0.76 0.76
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn6SG
+illum 4
+Kd 0.13 0.13 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn7SG
+illum 4
+Kd 0.67 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn9SG
+illum 4
+Kd 0.75 0.75 0.75
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn14SG
+illum 4
+Kd 0.62 0.62 0.62
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn15SG
+illum 4
+Kd 0.78 0.77 0.66
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn22SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.17 0.17 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn25SG
+illum 4
+Kd 0.61 0.31 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn27SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+newmtl blinn28SG
+illum 4
+Kd 0.50 0.39 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn29SG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+newmtl blinn30SG
+illum 4
+Kd 0.30 0.21 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_SmoothHardwoodFloor_2k_alb.tga
+bump Wood_SmoothHardwoodFloor_2k_n.tga -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn32SG
+illum 4
+Kd 0.46 0.50 0.39
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+newmtl blinn33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_PatchedPlywood_2k_alb.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Concrete_SplotchyGeneric_2k_alb.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl curvedcornerpipeSG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pCube70SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
+newmtl polySurface3SG
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface115SG
+illum 4
+Kd 0.37 0.37 0.37
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface168SG
+illum 4
+Kd 0.16 0.16 0.16
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.74 0.74 0.74
+Ns 38.44
+newmtl polySurface412SG
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface415SG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface582SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_modernGlossed_512_d.tga
+bump Brick_modernGlossed_512_n.tga -bm 1
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 4.31
+newmtl polySurface583SG
+illum 4
+Kd 0.63 0.70 0.81
+Ka 0.00 0.00 0.00
+Tf 0.48 0.48 0.48
+Ni 1.00
+Ks 0.22 0.22 0.22
+Ns 0.00
+newmtl polySurface725SG
+illum 4
+Kd 0.41 0.41 0.41
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface759SG
+illum 4
+Kd 0.43 0.43 0.43
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface3523SG
+illum 4
+Kd 0.00 0.91 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl steelpillar:Ceiling_BlackSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl steelpillar:Paint_GreySG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
